@@ -12,3 +12,6 @@ y_greater = y > y_check;
 
 %output
 FinalPercent = sum(y_greater) / length (y) * 100
+
+
+% a = 50;
